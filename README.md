@@ -77,8 +77,8 @@ Instead of sending the complete user profile, only the information needed for th
 | Pipeline | Estimated Tokens |
 |----------|-----------------:|
 | Original | 94 |
-| Optimized | 51 |
-| Tokens Saved | 43 |
+| Optimized | 49 |
+| Tokens Saved | 45 |
 
 **Note:** Token count is estimated using a simple character-based approach for demonstration purposes.
 
